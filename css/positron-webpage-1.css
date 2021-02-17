@@ -1,0 +1,1880 @@
+/* screen - positron-webpage-1 */
+
+.animate-enter22 {
+  animation: animate-enter22-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter23 {
+  animation: animate-enter23-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter24 {
+  animation: animate-enter24-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter25 {
+  animation: animate-enter25-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter26 {
+  animation: animate-enter26-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter27 {
+  animation: animate-enter27-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter28 {
+  animation: animate-enter28-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter29 {
+  animation: animate-enter29-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter30 {
+  animation: animate-enter30-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter31 {
+  animation: animate-enter31-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter32 {
+  animation: animate-enter32-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter33 {
+  animation: animate-enter33-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter34 {
+  animation: animate-enter34-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter35 {
+  animation: animate-enter35-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter36 {
+  animation: animate-enter36-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter37 {
+  animation: animate-enter37-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter38 {
+  animation: animate-enter38-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter39 {
+  animation: animate-enter39-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(0.9);
+}
+.animate-enter40 {
+  animation: animate-enter40-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(0.9);
+}
+.animate-enter41 {
+  animation: animate-enter41-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(0.9);
+}
+.animate-enter42 {
+  animation: animate-enter42-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(0.9);
+}
+.animate-enter43 {
+  animation: animate-enter43-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.montserrat-bold-chicago-24px {
+  color: var(--chicago);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-chicago-32px {
+  color: var(--chicago);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-normal-black-coral-pearl-30px {
+  color: var(--black-coral-pearl);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-japonica-31px {
+  color: var(--japonica);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-white-27px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-semi-bold-black-coral-pearl-16px {
+  color: var(--black-coral-pearl);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-1 {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 7220px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.positron-webpage-1 .about-mental-health-suW3mx {
+  background-color: transparent;
+  display: block;
+  height: 40px;
+  left: 9.58%;
+  letter-spacing: 0.93px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 226px;
+  white-space: nowrap;
+  width: 25.32%;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-1 .about-reso-p-feedback-WMVMu4 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.85px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-1 .about-y87Qwd {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.40px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-1 .adobe-stoc-128779476-kxOjkf {
+  background-color: transparent;
+  height: 224px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .adobe-stoc-128779476-xT2o43 {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-1 .adobe-stoc-236079930-4Cgzdv {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-1 .adobe-stoc-236079930-O34ruM {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-1 .adobe-stoc-236079930-SncXV1 {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-1 .adobe-stoc-315997287-GbV2FX {
+  background-color: transparent;
+  height: 171px;
+  position: absolute;
+  right: calc(20.00% - 43px);
+  top: 1px;
+  width: 217px;
+}
+.positron-webpage-1 .adobe-stoc-340876627-K7Bt5k {
+  background-color: transparent;
+  height: 171px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.positron-webpage-1 .ariellemoore-kxOjkf {
+  background-color: transparent;
+  bottom: 15px;
+  height: 80px;
+  left: calc(47.70% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 110px;
+}
+.positron-webpage-1 .brian-7XVNTx {
+  background-color: transparent;
+  height: calc(100.00% + 60px);
+  left: 0px;
+  position: absolute;
+  top: -30px;
+  width: 100%;
+}
+.positron-webpage-1 .brianharris-61T2mU {
+  background-color: transparent;
+  bottom: 15px;
+  height: 80px;
+  left: calc(47.80% - 49px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 102px;
+}
+.positron-webpage-1 .cancer-survivors-SncXV1 {
+  background-color: transparent;
+  bottom: 13px;
+  height: 60px;
+  left: calc(47.47% - 56px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 118px;
+}
+.positron-webpage-1 .card-6MyrnZ {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  left: calc(40.00% - 87px);
+  position: absolute;
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-1 .card-AKHC5S {
+  background-color: transparent;
+  height: 100%;
+  left: calc(20.00% - 43px);
+  position: absolute;
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-1 .card-FJROVA {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .card-GbV2FX {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-1 .card-aMluNF {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .card-cMF6r0 {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  position: absolute;
+  right: calc(20.00% - 43px);
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-1 .card-gAz7WF {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  position: absolute;
+  right: calc(40.00% - 87px);
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-1 .card-owBwJb {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .card-ryO8Cq {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-1 .card-xT2o43 {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .card-zp6Bv7 {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .design-suW3mx {
+  background-color: transparent;
+  display: block;
+  height: 713px;
+  left: 0px;
+  position: absolute;
+  top: 61px;
+  width: 33.37%;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-1 .download-app-wXTi3J {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 16px;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.40px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-1 .download-o--wellbeing-C61RwL {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  display: block;
+  flex-shrink: 1;
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  margin-left: 110.0px;
+  margin-top: 233px;
+  min-height: 196px;
+  min-width: 1426px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-1 .download-the-app-cgZzj1 {
+  background-color: transparent;
+  height: 35px;
+  letter-spacing: 5.40px;
+  line-height: 68px;
+  position: absolute;
+  right: calc(49.15% - 164px);
+  text-align: center;
+  top: calc(19.44% - 7px);
+  white-space: nowrap;
+  width: 334px;
+}
+.positron-webpage-1 .dsc82051-d2B41I {
+  background-color: transparent;
+  height: calc(100.00% + 118px);
+  left: 0px;
+  position: absolute;
+  top: -59px;
+  width: 100%;
+}
+.positron-webpage-1 .ellipse-35-FzLexT {
+  background-color: var(--white);
+  border-radius: 47px;
+  bottom: calc(38.25% - 36px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 94px;
+  position: absolute;
+  right: 95px;
+  width: 94px;
+}
+.positron-webpage-1 .facebook1-OSVqCW {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.positron-webpage-1 .facebook1-w0CvQg {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+.positron-webpage-1 .feedback-OvB0bA {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.40px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-1 .group-562-eSNWXa {
+  background-color: transparent;
+  display: block;
+  height: 125px;
+  left: 137px;
+  position: absolute;
+  top: 74px;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-1 .group-565-4a9k2Y {
+  background-color: transparent;
+  display: block;
+  height: 125px;
+  left: 675px;
+  position: absolute;
+  top: 297px;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-1 .group-566-GbV2FX {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(41.38% - 18px);
+  height: 44px;
+  left: 87px;
+  position: absolute;
+  width: 44px;
+}
+.positron-webpage-1 .group-567-GbV2FX {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(41.38% - 18px);
+  height: 44px;
+  left: calc(23.88% - 10px);
+  position: absolute;
+  width: 44px;
+}
+.positron-webpage-1 .group-568-GbV2FX {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(41.38% - 18px);
+  height: 44px;
+  left: calc(41.29% - 18px);
+  position: absolute;
+  width: 44px;
+}
+.positron-webpage-1 .group-569-GbV2FX {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(40.72% - 18px);
+  height: 44px;
+  position: absolute;
+  right: calc(41.26% - 18px);
+  width: 44px;
+}
+.positron-webpage-1 .group-570-GbV2FX {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(40.72% - 18px);
+  height: 44px;
+  position: absolute;
+  right: calc(23.85% - 10px);
+  width: 44px;
+}
+.positron-webpage-1 .group-571-GbV2FX {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(41.08% - 18px);
+  height: 44px;
+  position: absolute;
+  right: 87px;
+  width: 44px;
+}
+.positron-webpage-1 .group-572-C61RwL {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 125px;
+  margin-left: 0.0px;
+  margin-top: 234px;
+  position: relative;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-1 .group-573-C61RwL {
+  background-color: var(--japonica);
+  border-radius: 100px;
+  box-shadow: 0px 20px 30px rgba(2,2,2,0.302);;
+  display: block;
+  flex-shrink: 1;
+  height: 89px;
+  margin-left: 1.0px;
+  margin-top: 136px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 511px;
+opacity: 0;transform: scale(0.9);
+}
+.positron-webpage-1 .group-573-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.positron-webpage-1 .group-574-FzLexT {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: calc(33.37% - 95px);
+  position: absolute;
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-1 .group-575-FzLexT {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: calc(33.35% - 95px);
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-1 .group-576-FzLexT {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 1px;
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-1 .group-577-FzLexT {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-1 .group-578-C61RwL {
+  background-color: var(--japonica);
+  border-radius: 100px;
+  box-shadow: 0px 20px 30px rgba(2,2,2,0.302);;
+  display: block;
+  flex-shrink: 1;
+  height: 89px;
+  margin-left: 1.0px;
+  margin-top: 66px;
+  position: relative;
+  width: 511px;
+opacity: 0;transform: scale(0.9);
+}
+.positron-webpage-1 .group-579-C61RwL {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 297px;
+  margin-top: 80px;
+  position: relative;
+  width: 1382px;
+opacity: 0;transform: scale(0.9);
+}
+.positron-webpage-1 .group-580-C61RwL {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 125px;
+  margin-left: 0.0px;
+  margin-top: 234px;
+  position: relative;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-1 .group-581-C61RwL {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 125px;
+  margin-left: 0.0px;
+  margin-top: 264px;
+  position: relative;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-1 .group-582-FzLexT {
+  background-color: transparent;
+  background-image: url(../img/path-167-6@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(39.72% - 25px);
+  height: 63px;
+  left: 114px;
+  position: absolute;
+  width: 63px;
+}
+.positron-webpage-1 .group-585-FzLexT {
+  background-color: transparent;
+  background-image: url(../img/path-167-6@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(39.72% - 25px);
+  height: 63px;
+  position: absolute;
+  right: calc(36.12% - 23px);
+  width: 63px;
+}
+.positron-webpage-1 .group-586-snUZJY {
+  background-color: transparent;
+  background-image: url(../img/nate@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 100px);
+  left: -6px;
+  position: relative;
+  top: -37px;
+  width: calc(100.00% + 40px);
+}
+.positron-webpage-1 .group-587-FzLexT {
+  background-color: transparent;
+  background-image: url(../img/path-167-6@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(39.72% - 25px);
+  height: 63px;
+  position: absolute;
+  right: 110px;
+  width: 63px;
+}
+.positron-webpage-1 .group-588-FzLexT {
+  background-color: transparent;
+  background-image: url(../img/path-167-6@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(39.72% - 25px);
+  height: 63px;
+  left: calc(36.43% - 23px);
+  position: absolute;
+  width: 63px;
+}
+.positron-webpage-1 .group-589-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 774px;
+  margin-left: 82.39px;
+  margin-top: 0px;
+  position: relative;
+  width: 1730px;
+}
+.positron-webpage-1 .group-590-RH0WJ5 {
+  background-color: transparent;
+  display: block;
+  height: 116px;
+  left: 0px;
+  position: absolute;
+  top: 70px;
+  width: 1228px;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-1 .group-591-C61RwL {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 202px;
+  margin-left: 110.0px;
+  margin-top: 216px;
+  position: relative;
+  width: 1076px;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-1 .group-592-C61RwL {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 382px;
+  margin-left: 0.78px;
+  margin-top: 145px;
+  position: relative;
+  width: 1327px;
+opacity: 0;transform: scale(0.9);
+}
+.positron-webpage-1 .group-593-C61RwL {
+  background-color: var(--white);
+  border: 4px solid var(--tower-gray);
+  border-radius: 36px;
+  flex-shrink: 1;
+  height: 345px;
+  margin-left: 1.0px;
+  margin-top: 84px;
+  position: relative;
+  width: 1041px;
+}
+.positron-webpage-1 .group-594-C61RwL {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 243px;
+  margin-left: 11.0px;
+  margin-top: 250px;
+  position: relative;
+  width: 507px;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-1 .groupvolunteer-K7Bt5k {
+  background-color: transparent;
+  bottom: 11px;
+  color: var(--chicago);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  height: 62px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(48.10% - 66px);
+  text-align: center;
+  white-space: nowrap;
+  width: 138px;
+}
+.positron-webpage-1 .have-feedback-QA41Za {
+  background-color: transparent;
+  color: var(--japonica);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 63px;
+  left: 39px;
+  letter-spacing: 1.50px;
+  line-height: 78px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 84px);
+}
+.positron-webpage-1 .header-1yDmei {
+  background-color: transparent;
+  height: 19px;
+  left: 1147px;
+  position: absolute;
+  top: 110px;
+  width: 122px;
+}
+.positron-webpage-1 .header-4eduM0 {
+  background-color: transparent;
+  height: 23px;
+  left: 518px;
+  position: absolute;
+  top: 113px;
+  width: 884px;
+}
+.positron-webpage-1 .header-7WA54U {
+  background-color: transparent;
+  height: 19px;
+  left: 1361px;
+  position: absolute;
+  top: 110px;
+  width: 171px;
+}
+.positron-webpage-1 .header-OEJu1x {
+  background-color: transparent;
+  height: 19px;
+  left: 1623px;
+  position: absolute;
+  top: 110px;
+  width: 109px;
+}
+.positron-webpage-1 .header-eSNWXa {
+  background-color: transparent;
+  height: 19px;
+  left: 987px;
+  position: absolute;
+  top: 110px;
+  width: 69px;
+}
+.positron-webpage-1 .hiking-4Cgzdv {
+  background-color: transparent;
+  bottom: calc(17.32% - 5px);
+  height: 31px;
+  left: calc(48.09% - 41px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 86px;
+}
+.positron-webpage-1 .icnsurfing-0NxM7x {
+  background-color: var(--white);
+  border-radius: 47px;
+  bottom: calc(38.25% - 36px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 94px;
+  left: calc(36.02% - 34px);
+  position: absolute;
+  width: 94px;
+}
+.positron-webpage-1 .icnsurfing-AKHC5S {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(39.65% - 28px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(23.28% - 17px);
+  width: 72px;
+}
+.positron-webpage-1 .icnsurfing-FzLexT {
+  background-color: var(--white);
+  border-radius: 47px;
+  bottom: calc(38.25% - 36px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 94px;
+  left: 97px;
+  position: absolute;
+  width: 94px;
+}
+.positron-webpage-1 .icnsurfing-GbV2FX {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(39.65% - 28px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(41.07% - 30px);
+  width: 72px;
+}
+.positron-webpage-1 .icnsurfing-K7Bt5k {
+  background-color: var(--white);
+  border-radius: 36px;
+  bottom: calc(38.53% - 28px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 72px;
+  position: absolute;
+  right: calc(49.66% - 36px);
+  width: 72px;
+}
+.positron-webpage-1 .icnsurfing-MuU3us {
+  background-color: var(--white);
+  border-radius: 47px;
+  bottom: calc(38.25% - 36px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 94px;
+  position: absolute;
+  right: calc(35.84% - 34px);
+  width: 94px;
+}
+.positron-webpage-1 .icnsurfing-SncXV1 {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(38.07% - 27px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(49.66% - 36px);
+  width: 72px;
+}
+.positron-webpage-1 .icnsurfing-f6x6OF {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(38.07% - 27px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(49.66% - 36px);
+  width: 72px;
+}
+.positron-webpage-1 .icnsurfing-xT2o43 {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(40.53% - 28px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(49.66% - 36px);
+  width: 72px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-1Xn2rx {
+  background-color: transparent;
+  bottom: calc(35.74% - 15px);
+  height: 41px;
+  position: absolute;
+  right: calc(45.05% - 19px);
+  width: 41px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-95VKW7 {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-HsxsqL {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-SExfiV {
+  background-color: transparent;
+  bottom: calc(35.74% - 15px);
+  height: 41px;
+  position: absolute;
+  right: calc(45.05% - 19px);
+  width: 41px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-ZfoPYq {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-aNjFCG {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-l7SYR8 {
+  background-color: transparent;
+  bottom: calc(35.74% - 15px);
+  height: 41px;
+  position: absolute;
+  right: calc(45.05% - 19px);
+  width: 41px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-qcQd7B {
+  background-color: transparent;
+  bottom: calc(35.74% - 15px);
+  height: 41px;
+  position: absolute;
+  right: calc(45.05% - 19px);
+  width: 41px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-sNojCH {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-1 .icon-ionic-d-arrow-up-uLuBhB {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-1 .in-physics-ive-charge-9S2xFw {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.93px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 947px;
+}
+.positron-webpage-1 .instagram1-OSVqCW {
+  background-color: transparent;
+  bottom: 0px;
+  height: 18px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.positron-webpage-1 .instagram1-w0CvQg {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 20px;
+}
+.positron-webpage-1 .kidscope-O34ruM {
+  background-color: transparent;
+  bottom: 13px;
+  height: 60px;
+  left: calc(48.25% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 74px;
+}
+.positron-webpage-1 .line-6-UDbHbi {
+  background-color: transparent;
+  bottom: -4px;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 40px);
+}
+.positron-webpage-1 .logostackedcolor-91OPqQ {
+  background-color: transparent;
+  background-image: url(../img/path-18-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .logostackedcolor-CTAjml {
+  background-color: transparent;
+  background-image: url(../img/path-18-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .logostackedcolor-UDbxrZ {
+  background-color: transparent;
+  background-image: url(../img/path-18-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .logostackedcolor-VK7AKM {
+  background-color: transparent;
+  background-image: url(../img/path-18-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .logostackedcolor-YOWWjP {
+  background-color: transparent;
+  background-image: url(../img/path-18-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .mask-GbV2FX {
+  background-color: transparent;
+  height: 172px;
+  position: absolute;
+  right: calc(40.07% - 87px);
+  top: 0px;
+  width: 218px;
+}
+.positron-webpage-1 .mask-f6x6OF {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-1 .mask-group-13-suW3mx {
+  background-color: transparent;
+  bottom: 161px;
+  display: block;
+  height: 613px;
+  position: absolute;
+  right: 0px;
+  width: 692px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-1 .mask-group-19-RH0WJ5 {
+  background-color: transparent;
+  display: block;
+  height: 186px;
+  left: 1149px;
+  position: absolute;
+  top: 0px;
+  width: 186px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-1 .mask-group-20-4a9k2Y {
+  background-color: transparent;
+  display: block;
+  height: 309px;
+  left: 0px;
+  position: absolute;
+  top: 100px;
+  width: 309px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-1 .mask-group-21-FzLexT {
+  background-color: transparent;
+  height: 225px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 285px;
+}
+.positron-webpage-1 .mask-group-22-FzLexT {
+  background-color: transparent;
+  height: 224px;
+  position: absolute;
+  right: calc(33.38% - 95px);
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-1 .mask-group-23-FzLexT {
+  background-color: transparent;
+  height: 224px;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 284px;
+}
+.positron-webpage-1 .mask-group-24-FzLexT {
+  background-color: transparent;
+  height: 224px;
+  left: calc(33.40% - 95px);
+  position: absolute;
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-1 .meet-our-team-C61RwL {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  flex-shrink: 1;
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 1.50px;
+  line-height: 113px;
+  margin-bottom: -50px;
+  margin-left: 2.0px;
+  margin-top: 208px;
+  min-height: 63px;
+  min-width: 406px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.positron-webpage-1 .myah3289-edit-2-6XsiTw {
+  background-color: transparent;
+  height: calc(100.00% + 132px);
+  left: 0px;
+  position: absolute;
+  top: -19px;
+  width: 100%;
+}
+.positron-webpage-1 .natejolley-tqzaC9 {
+  background-color: transparent;
+  bottom: 15px;
+  height: 80px;
+  left: calc(47.83% - 48px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 100px;
+}
+.positron-webpage-1 .nav-Qsi7AK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .nav-WHMUjQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .nav-WqZUYN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .nav-nQ5xvs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .nav-xtIyVa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .nikkiweekes-EVN5bb {
+  background-color: transparent;
+  bottom: 15px;
+  height: 80px;
+  left: calc(47.30% - 64px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 136px;
+}
+.positron-webpage-1 .one-on-onetherapy-xT2o43 {
+  background-color: transparent;
+  bottom: -10px;
+  height: 89px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 158px;
+}
+.positron-webpage-1 .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 287px;
+  margin-top: 310px;
+  position: relative;
+  width: 1920px;
+}
+.positron-webpage-1 .overlap-group1-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 186px;
+  margin-left: 19.0px;
+  margin-top: 212px;
+  position: relative;
+  width: 1335px;
+}
+.positron-webpage-1 .overlap-group2-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 423px;
+  margin-left: 67.0px;
+  margin-top: 192px;
+  position: relative;
+  width: 1543px;
+}
+.positron-webpage-1 .overlap-group3-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 227px;
+  position: relative;
+  width: 1920px;
+}
+.positron-webpage-1 .path-19-Ey6rEb {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-1 .path-19-ktWHDx {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-1 .path-19-l7JyFN {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-1 .path-19-qh2C9W {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-1 .path-19-xAxJ59 {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-1 .positron-UDbHbi {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 76px;
+  font-style: normal;
+  font-weight: 400;
+  height: 95px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 76px;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-1 .preview-he--resources-C61RwL {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  margin-bottom: -13px;
+  margin-left: 3.0px;
+  margin-top: 136px;
+  min-height: 40px;
+  min-width: 833px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-1 .rectangle-154-4eduM0 {
+  background-color: var(--tower-gray);
+  height: 287px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.positron-webpage-1 .rectangle-155-eSNWXa {
+  background-color: var(--white);
+  height: 227px;
+  left: 0px;
+  opacity: 0.69;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.positron-webpage-1 .resources-2ttU9s {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.40px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-1 .screen-sho-t-15704-pm-suW3mx {
+  background-color: transparent;
+  display: block;
+  height: 442px;
+  left: calc(34.80% - 189px);
+  position: absolute;
+  top: 328px;
+  width: 544px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-1 .small-burst-image-MgH5HJ {
+  background-color: transparent;
+  height: calc(100.00% + 235px);
+  left: -331px;
+  position: absolute;
+  top: -150px;
+  width: calc(100.00% + 656px);
+}
+.positron-webpage-1 .small-burst-image-s9bjA0 {
+  background-color: transparent;
+  height: calc(100.00% + 141px);
+  left: -199px;
+  position: absolute;
+  top: -90px;
+  width: calc(100.00% + 395px);
+}
+.positron-webpage-1 .small-burst-image-z46ZB5 {
+  background-color: transparent;
+  height: calc(100.00% + 607px);
+  left: -742px;
+  position: absolute;
+  top: -293px;
+  width: calc(100.00% + 1475px);
+}
+.positron-webpage-1 .social-i-cons-4eduM0 {
+  background-color: transparent;
+  height: 22px;
+  left: 835px;
+  position: absolute;
+  top: 177px;
+  width: 249px;
+}
+.positron-webpage-1 .social-i-cons-bFbbi2 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 89px;
+  left: 0px;
+  position: absolute;
+  width: 18px;
+}
+.positron-webpage-1 .span0-8Eq7VI {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.positron-webpage-1 .span0-gnzNNl {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-1 .span0-vQ4bgY {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.positron-webpage-1 .span1-8Eq7VI {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-1 .span1-gnzNNl {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-1 .span1-vQ4bgY {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-1 .span2-gnzNNl {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-1 .span2-vQ4bgY {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.positron-webpage-1 .submit-message-HnQ0LK {
+  background-color: transparent;
+  height: 35px;
+  letter-spacing: 5.40px;
+  line-height: 68px;
+  position: absolute;
+  right: calc(49.28% - 149px);
+  text-align: center;
+  top: calc(19.44% - 7px);
+  white-space: nowrap;
+  width: 302px;
+}
+.positron-webpage-1 .text-0yK4J5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-1 .text-content-bFbbi2 {
+  background-color: transparent;
+  height: 130px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 412px;
+}
+.positron-webpage-1 .twitter1-OSVqCW {
+  background-color: transparent;
+  bottom: calc(49.44% - 7px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.positron-webpage-1 .twitter1-w0CvQg {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(48.78% - 10px);
+  top: 2px;
+  width: 20px;
+}
+.positron-webpage-1 .type-your-message-kx0xZX {
+  background-color: transparent;
+  color: var(--tower-gray);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39px;
+  left: 68px;
+  letter-spacing: 0.90px;
+  line-height: 78px;
+  position: absolute;
+  text-align: left;
+  top: calc(12.25% - 5px);
+  white-space: nowrap;
+  width: 326px;
+}
+.positron-webpage-1 .veteran-support-f6x6OF {
+  background-color: transparent;
+  bottom: 13px;
+  height: 60px;
+  left: calc(47.71% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 108px;
+}
+.positron-webpage-1 .we-are-con--improving-QA41Za {
+  background-color: transparent;
+  bottom: calc(38.97% - 15px);
+  height: 39px;
+  left: 0px;
+  letter-spacing: 0.90px;
+  line-height: 78px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 39px);
+}
+.positron-webpage-1 .we-are-her-nversation-suW3mx {
+  background-color: transparent;
+  display: block;
+  height: 40px;
+  left: 9.55%;
+  letter-spacing: 0.93px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  white-space: nowrap;
+  width: 41.86%;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-1 .we-want-do-t-a-luxury-4a9k2Y {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  display: block;
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 31px;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-1 .wed-love-t-r-from-you-QA41Za {
+  background-color: transparent;
+  bottom: 18px;
+  height: 39px;
+  letter-spacing: 0.90px;
+  line-height: 78px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 431px;
+}
+.positron-webpage-1 .whether-he-u-are-here-nq2GxA {
+  background-color: transparent;
+  bottom: -7px;
+  height: 118px;
+  left: 78px;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 76px);
+}
+.positron-webpage-1 .x-it-can-an--of-energy-9S2xFw {
+  background-color: transparent;
+  bottom: -14px;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.93px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-1 .your-menta-tart-today-nq2GxA {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 31px;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 714px;
+}
+:root {
+  --black-coral-pearl: rgba(82,100,100,1.0);
+  --chicago: rgba(90,85,85,1.0);
+  --japonica: rgba(217,125,84,1.0);
+  --tower-gray: rgba(160,193,193,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@keyframes animate-enter22-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter23-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter24-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter25-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter26-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter27-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter28-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter29-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter30-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter31-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter32-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter33-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter34-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter35-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter36-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter37-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter38-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter39-frames {
+
+from{opacity: 0;transform: scale(0.9);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter40-frames {
+
+from{opacity: 0;transform: scale(0.9);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter41-frames {
+
+from{opacity: 0;transform: scale(0.9);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter42-frames {
+
+from{opacity: 0;transform: scale(0.9);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter43-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}

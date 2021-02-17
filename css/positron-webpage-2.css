@@ -1,0 +1,1895 @@
+/* screen - positron-webpage-2 */
+
+.animate-enter {
+  animation: animate-enter-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter1 {
+  animation: animate-enter1-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter10 {
+  animation: animate-enter10-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter11 {
+  animation: animate-enter11-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter12 {
+  animation: animate-enter12-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter13 {
+  animation: animate-enter13-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter14 {
+  animation: animate-enter14-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter15 {
+  animation: animate-enter15-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter16 {
+  animation: animate-enter16-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter17 {
+  animation: animate-enter17-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(0.9);
+}
+.animate-enter18 {
+  animation: animate-enter18-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(0.9);
+}
+.animate-enter19 {
+  animation: animate-enter19-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(0.9);
+}
+.animate-enter2 {
+  animation: animate-enter2-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter20 {
+  animation: animate-enter20-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(0.9);
+}
+.animate-enter21 {
+  animation: animate-enter21-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter3 {
+  animation: animate-enter3-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter4 {
+  animation: animate-enter4-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter5 {
+  animation: animate-enter5-frames 2.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: scale(1.1);
+}
+.animate-enter6 {
+  animation: animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter7 {
+  animation: animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter8 {
+  animation: animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.animate-enter9 {
+  animation: animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(-25px, 0);
+}
+.montserrat-bold-chicago-24px {
+  color: var(--chicago);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-chicago-32px {
+  color: var(--chicago);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-normal-black-coral-pearl-30px {
+  color: var(--black-coral-pearl);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-japonica-31px {
+  color: var(--japonica);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-white-27px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-semi-bold-black-coral-pearl-16px {
+  color: var(--black-coral-pearl);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-2 {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 7220px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 73.6px 0;
+  position: relative;
+  width: 1920px;
+}
+.positron-webpage-2 .about-mental-health-iT8Jg8 {
+  background-color: transparent;
+  display: block;
+  height: 40px;
+  left: 9.58%;
+  letter-spacing: 0.93px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 226px;
+  white-space: nowrap;
+  width: 25.32%;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-2 .about-reso-p-feedback-3pHlCk {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.85px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-2 .about-yYsgaa {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.40px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-2 .adobe-stoc-128779476-Xkb31s {
+  background-color: transparent;
+  height: 224px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .adobe-stoc-128779476-cal5Gv {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-2 .adobe-stoc-236079930-88BcHx {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-2 .adobe-stoc-236079930-On1TSs {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-2 .adobe-stoc-236079930-yJpbMZ {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-2 .adobe-stoc-315997287-nMRxy1 {
+  background-color: transparent;
+  height: 171px;
+  position: absolute;
+  right: calc(20.00% - 43px);
+  top: 1px;
+  width: 217px;
+}
+.positron-webpage-2 .adobe-stoc-340876627-KrXO7F {
+  background-color: transparent;
+  height: 171px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.positron-webpage-2 .ariellemoore-Xkb31s {
+  background-color: transparent;
+  bottom: 15px;
+  height: 80px;
+  left: calc(47.70% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 110px;
+}
+.positron-webpage-2 .auto-flex-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 28px;
+  min-height: 6995px;
+  position: relative;
+  width: 1920px;
+}
+.positron-webpage-2 .auto-flex1-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 125px;
+  justify-content: flex-start;
+  margin-right: 51.13px;
+  min-width: 1595px;
+  position: relative;
+  width: auto;
+}
+.positron-webpage-2 .brian-M431gb {
+  background-color: transparent;
+  height: calc(100.00% + 60px);
+  left: 0px;
+  position: absolute;
+  top: -30px;
+  width: 100%;
+}
+.positron-webpage-2 .brianharris-24p2DX {
+  background-color: transparent;
+  bottom: 15px;
+  height: 80px;
+  left: calc(47.80% - 49px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 102px;
+}
+.positron-webpage-2 .cancer-survivors-On1TSs {
+  background-color: transparent;
+  bottom: 13px;
+  height: 60px;
+  left: calc(47.47% - 56px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 118px;
+}
+.positron-webpage-2 .card-6Jxatz {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  position: absolute;
+  right: calc(40.00% - 87px);
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-2 .card-IDGRjA {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .card-XTXUcR {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .card-Xx5jqx {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .card-cal5Gv {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .card-k3UcPD {
+  background-color: transparent;
+  height: 100%;
+  left: calc(20.00% - 43px);
+  position: absolute;
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-2 .card-khZKfQ {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-2 .card-mJke4Q {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  position: absolute;
+  right: calc(20.00% - 43px);
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-2 .card-n2WNZh {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .card-nMRxy1 {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-2 .card-qlD2Pb {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.114);;
+  height: calc(100.00% - 9px);
+  left: calc(40.00% - 87px);
+  position: absolute;
+  top: 0px;
+  width: 217px;
+}
+.positron-webpage-2 .design-iT8Jg8 {
+  background-color: transparent;
+  display: block;
+  height: 713px;
+  left: 0px;
+  position: absolute;
+  top: 61px;
+  width: 33.37%;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-2 .download-app-aZbGfx {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 16px;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.40px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-2 .download-o--wellbeing-fhuxN3 {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  display: block;
+  flex-shrink: 1;
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  margin-left: 110.0px;
+  margin-top: 233px;
+  min-height: 196px;
+  min-width: 1426px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-2 .download-the-app-Ca4fLi {
+  background-color: transparent;
+  height: 35px;
+  letter-spacing: 5.40px;
+  line-height: 68px;
+  position: absolute;
+  right: calc(49.15% - 164px);
+  text-align: center;
+  top: calc(19.44% - 7px);
+  white-space: nowrap;
+  width: 334px;
+}
+.positron-webpage-2 .dsc82051-3syKRx {
+  background-color: transparent;
+  height: calc(100.00% + 118px);
+  left: 0px;
+  position: absolute;
+  top: -59px;
+  width: 100%;
+}
+.positron-webpage-2 .ellipse-35-GxJN2p {
+  background-color: var(--white);
+  border-radius: 47px;
+  bottom: calc(38.25% - 36px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 94px;
+  position: absolute;
+  right: 95px;
+  width: 94px;
+}
+.positron-webpage-2 .facebook1-A74ZZ6 {
+  background-color: transparent;
+  height: 18px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.positron-webpage-2 .facebook1-qs0rpb {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+.positron-webpage-2 .feedback-ovddhf {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.40px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-2 .group-562-uxzUmT {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 125px;
+  position: relative;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-2 .group-565-SJVP2h {
+  background-color: transparent;
+  display: block;
+  height: 125px;
+  left: 675px;
+  position: absolute;
+  top: 297px;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-2 .group-566-nMRxy1 {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(41.38% - 18px);
+  height: 44px;
+  left: 87px;
+  position: absolute;
+  width: 44px;
+}
+.positron-webpage-2 .group-567-nMRxy1 {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(41.38% - 18px);
+  height: 44px;
+  left: calc(23.88% - 10px);
+  position: absolute;
+  width: 44px;
+}
+.positron-webpage-2 .group-568-nMRxy1 {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(41.38% - 18px);
+  height: 44px;
+  left: calc(41.29% - 18px);
+  position: absolute;
+  width: 44px;
+}
+.positron-webpage-2 .group-569-nMRxy1 {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(40.72% - 18px);
+  height: 44px;
+  position: absolute;
+  right: calc(41.26% - 18px);
+  width: 44px;
+}
+.positron-webpage-2 .group-570-nMRxy1 {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(40.72% - 18px);
+  height: 44px;
+  position: absolute;
+  right: calc(23.85% - 10px);
+  width: 44px;
+}
+.positron-webpage-2 .group-571-nMRxy1 {
+  background-color: transparent;
+  background-image: url(../img/path-167-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(41.08% - 18px);
+  height: 44px;
+  position: absolute;
+  right: 87px;
+  width: 44px;
+}
+.positron-webpage-2 .group-572-fhuxN3 {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 125px;
+  margin-left: 0.0px;
+  margin-top: 234px;
+  position: relative;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-2 .group-573-fhuxN3 {
+  background-color: var(--japonica);
+  border-radius: 100px;
+  box-shadow: 0px 20px 30px rgba(2,2,2,0.302);;
+  display: block;
+  flex-shrink: 1;
+  height: 89px;
+  margin-left: 1.0px;
+  margin-top: 136px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 511px;
+opacity: 0;transform: scale(0.9);
+}
+.positron-webpage-2 .group-573-fhuxN3:hover {
+
+transform: scale(1.1);
+}
+.positron-webpage-2 .group-574-GxJN2p {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: calc(33.37% - 95px);
+  position: absolute;
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-2 .group-575-GxJN2p {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: calc(33.35% - 95px);
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-2 .group-576-GxJN2p {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 1px;
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-2 .group-577-GxJN2p {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-2 .group-578-fhuxN3 {
+  background-color: var(--japonica);
+  border-radius: 100px;
+  box-shadow: 0px 20px 30px rgba(2,2,2,0.302);;
+  display: block;
+  flex-shrink: 1;
+  height: 89px;
+  margin-left: 1.0px;
+  margin-top: 66px;
+  position: relative;
+  width: 511px;
+opacity: 0;transform: scale(0.9);
+}
+.positron-webpage-2 .group-579-fhuxN3 {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 297px;
+  margin-top: 80px;
+  position: relative;
+  width: 1382px;
+opacity: 0;transform: scale(0.9);
+}
+.positron-webpage-2 .group-580-fhuxN3 {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 125px;
+  margin-left: 0.0px;
+  margin-top: 234px;
+  position: relative;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-2 .group-581-fhuxN3 {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 125px;
+  margin-left: 0.0px;
+  margin-top: 264px;
+  position: relative;
+  width: 125px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-2 .group-582-GxJN2p {
+  background-color: transparent;
+  background-image: url(../img/path-167-6@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(39.72% - 25px);
+  height: 63px;
+  left: 114px;
+  position: absolute;
+  width: 63px;
+}
+.positron-webpage-2 .group-585-GxJN2p {
+  background-color: transparent;
+  background-image: url(../img/path-167-6@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(39.72% - 25px);
+  height: 63px;
+  position: absolute;
+  right: calc(36.12% - 23px);
+  width: 63px;
+}
+.positron-webpage-2 .group-586-PcpJLj {
+  background-color: transparent;
+  background-image: url(../img/nate@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 100px);
+  left: -6px;
+  position: relative;
+  top: -37px;
+  width: calc(100.00% + 40px);
+}
+.positron-webpage-2 .group-587-GxJN2p {
+  background-color: transparent;
+  background-image: url(../img/path-167-6@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(39.72% - 25px);
+  height: 63px;
+  position: absolute;
+  right: 110px;
+  width: 63px;
+}
+.positron-webpage-2 .group-588-GxJN2p {
+  background-color: transparent;
+  background-image: url(../img/path-167-6@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(39.72% - 25px);
+  height: 63px;
+  left: calc(36.43% - 23px);
+  position: absolute;
+  width: 63px;
+}
+.positron-webpage-2 .group-589-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 774px;
+  margin-left: 82.39px;
+  position: relative;
+  width: 1730px;
+}
+.positron-webpage-2 .group-590-GtdoDw {
+  background-color: transparent;
+  display: block;
+  height: 116px;
+  left: 0px;
+  position: absolute;
+  top: 70px;
+  width: 1228px;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-2 .group-591-fhuxN3 {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 202px;
+  margin-left: 110.0px;
+  margin-top: 216px;
+  position: relative;
+  width: 1076px;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-2 .group-592-fhuxN3 {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 382px;
+  margin-left: 0.78px;
+  margin-top: 145px;
+  position: relative;
+  width: 1327px;
+opacity: 0;transform: scale(0.9);
+}
+.positron-webpage-2 .group-593-fhuxN3 {
+  background-color: var(--white);
+  border: 4px solid var(--tower-gray);
+  border-radius: 36px;
+  flex-shrink: 1;
+  height: 345px;
+  margin-left: 1.0px;
+  margin-top: 84px;
+  position: relative;
+  width: 1041px;
+}
+.positron-webpage-2 .group-594-fhuxN3 {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: 243px;
+  margin-left: 11.0px;
+  margin-top: 250px;
+  position: relative;
+  width: 507px;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-2 .groupvolunteer-KrXO7F {
+  background-color: transparent;
+  bottom: 11px;
+  color: var(--chicago);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  height: 62px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(48.10% - 66px);
+  text-align: center;
+  white-space: nowrap;
+  width: 138px;
+}
+.positron-webpage-2 .have-feedback-dc1MTW {
+  background-color: transparent;
+  color: var(--japonica);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 63px;
+  left: 39px;
+  letter-spacing: 1.50px;
+  line-height: 78px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 84px);
+}
+.positron-webpage-2 .header-Q4SqBs {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 19px;
+  margin-bottom: 33.24px;
+  margin-left: 90px;
+  position: relative;
+  width: 109px;
+}
+.positron-webpage-2 .header-UD57O0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 19px;
+  margin-bottom: 33.24px;
+  margin-left: 90px;
+  position: relative;
+  width: 122px;
+}
+.positron-webpage-2 .header-UyZ2hR {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 19px;
+  margin-bottom: 33.24px;
+  margin-left: 92px;
+  position: relative;
+  width: 171px;
+}
+.positron-webpage-2 .header-m4FBGj {
+  background-color: transparent;
+  height: 23px;
+  left: 518px;
+  position: absolute;
+  top: 113px;
+  width: 884px;
+}
+.positron-webpage-2 .header-uxzUmT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 19px;
+  margin-bottom: 33.24px;
+  margin-left: 724px;
+  position: relative;
+  width: 69px;
+}
+.positron-webpage-2 .hiking-yJpbMZ {
+  background-color: transparent;
+  bottom: calc(17.32% - 5px);
+  height: 31px;
+  left: calc(48.09% - 41px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 86px;
+}
+.positron-webpage-2 .icnsurfing-GxJN2p {
+  background-color: var(--white);
+  border-radius: 47px;
+  bottom: calc(38.25% - 36px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 94px;
+  left: 97px;
+  position: absolute;
+  width: 94px;
+}
+.positron-webpage-2 .icnsurfing-KrXO7F {
+  background-color: var(--white);
+  border-radius: 36px;
+  bottom: calc(38.53% - 28px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 72px;
+  position: absolute;
+  right: calc(49.66% - 36px);
+  width: 72px;
+}
+.positron-webpage-2 .icnsurfing-On1TSs {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(38.07% - 27px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(49.66% - 36px);
+  width: 72px;
+}
+.positron-webpage-2 .icnsurfing-cal5Gv {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(40.53% - 28px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(49.66% - 36px);
+  width: 72px;
+}
+.positron-webpage-2 .icnsurfing-k3UcPD {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(39.65% - 28px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(23.28% - 17px);
+  width: 72px;
+}
+.positron-webpage-2 .icnsurfing-nMRxy1 {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(39.65% - 28px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(41.07% - 30px);
+  width: 72px;
+}
+.positron-webpage-2 .icnsurfing-oS5UoP {
+  background-color: var(--white);
+  border-radius: 47px;
+  bottom: calc(38.25% - 36px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 94px;
+  left: calc(36.02% - 34px);
+  position: absolute;
+  width: 94px;
+}
+.positron-webpage-2 .icnsurfing-qJh5ui {
+  background-color: var(--white);
+  border-radius: 47px;
+  bottom: calc(38.25% - 36px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 94px;
+  position: absolute;
+  right: calc(35.84% - 34px);
+  width: 94px;
+}
+.positron-webpage-2 .icnsurfing-vTBimZ {
+  background-color: var(--white);
+  border-radius: 36px/35px;
+  bottom: calc(38.07% - 27px);
+  box-shadow: 0px 10px 30px rgba(66,89,101,0.161);;
+  height: 70px;
+  position: absolute;
+  right: calc(49.66% - 36px);
+  width: 72px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-2SgXB6 {
+  background-color: transparent;
+  bottom: calc(35.74% - 15px);
+  height: 41px;
+  position: absolute;
+  right: calc(45.05% - 19px);
+  width: 41px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-5VNgu3 {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-GW1Qit {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-RXlWly {
+  background-color: transparent;
+  bottom: calc(35.74% - 15px);
+  height: 41px;
+  position: absolute;
+  right: calc(45.05% - 19px);
+  width: 41px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-SKxMx3 {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-X6VIMw {
+  background-color: transparent;
+  bottom: calc(35.74% - 15px);
+  height: 41px;
+  position: absolute;
+  right: calc(45.05% - 19px);
+  width: 41px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-mOPxba {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-xqRdBA {
+  background-color: transparent;
+  bottom: calc(35.74% - 15px);
+  height: 41px;
+  position: absolute;
+  right: calc(45.05% - 19px);
+  width: 41px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-yt4WOK {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-2 .icon-ionic-d-arrow-up-zAKCBz {
+  background-color: transparent;
+  bottom: calc(17.66% - 6px);
+  height: 34px;
+  position: absolute;
+  right: calc(42.15% - 15px);
+  width: 34px;
+}
+.positron-webpage-2 .in-physics-ive-charge-P2UvEg {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.93px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 947px;
+}
+.positron-webpage-2 .instagram1-A74ZZ6 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 18px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.positron-webpage-2 .instagram1-qs0rpb {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 20px;
+}
+.positron-webpage-2 .kidscope-88BcHx {
+  background-color: transparent;
+  bottom: 13px;
+  height: 60px;
+  left: calc(48.25% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 74px;
+}
+.positron-webpage-2 .line-6-txaVym {
+  background-color: transparent;
+  bottom: -4px;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 40px);
+}
+.positron-webpage-2 .logostackedcolor-0QUI25 {
+  background-color: transparent;
+  background-image: url(../img/path-18-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .logostackedcolor-IcwSai {
+  background-color: transparent;
+  background-image: url(../img/path-18-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .logostackedcolor-KQfPV8 {
+  background-color: transparent;
+  background-image: url(../img/path-18-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .logostackedcolor-lyx6vp {
+  background-color: transparent;
+  background-image: url(../img/path-18-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .logostackedcolor-uiXtzn {
+  background-color: transparent;
+  background-image: url(../img/path-18-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .mask-group-13-iT8Jg8 {
+  background-color: transparent;
+  bottom: 161px;
+  display: block;
+  height: 613px;
+  position: absolute;
+  right: 0px;
+  width: 692px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-2 .mask-group-19-GtdoDw {
+  background-color: transparent;
+  display: block;
+  height: 186px;
+  left: 1149px;
+  position: absolute;
+  top: 0px;
+  width: 186px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-2 .mask-group-20-SJVP2h {
+  background-color: transparent;
+  display: block;
+  height: 309px;
+  left: 0px;
+  position: absolute;
+  top: 100px;
+  width: 309px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-2 .mask-group-21-GxJN2p {
+  background-color: transparent;
+  height: 225px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 285px;
+}
+.positron-webpage-2 .mask-group-22-GxJN2p {
+  background-color: transparent;
+  height: 224px;
+  position: absolute;
+  right: calc(33.38% - 95px);
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-2 .mask-group-23-GxJN2p {
+  background-color: transparent;
+  height: 224px;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 284px;
+}
+.positron-webpage-2 .mask-group-24-GxJN2p {
+  background-color: transparent;
+  height: 224px;
+  left: calc(33.40% - 95px);
+  position: absolute;
+  top: 3px;
+  width: 284px;
+}
+.positron-webpage-2 .mask-nMRxy1 {
+  background-color: transparent;
+  height: 172px;
+  position: absolute;
+  right: calc(40.07% - 87px);
+  top: 0px;
+  width: 218px;
+}
+.positron-webpage-2 .mask-vTBimZ {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.positron-webpage-2 .meet-our-team-fhuxN3 {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  flex-shrink: 1;
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 1.50px;
+  line-height: 113px;
+  margin-bottom: -50px;
+  margin-left: 2.0px;
+  margin-top: 208px;
+  min-height: 63px;
+  min-width: 406px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.positron-webpage-2 .myah3289-edit-2-GeKzgu {
+  background-color: transparent;
+  height: calc(100.00% + 132px);
+  left: 0px;
+  position: absolute;
+  top: -19px;
+  width: 100%;
+}
+.positron-webpage-2 .natejolley-XTxF0V {
+  background-color: transparent;
+  bottom: 15px;
+  height: 80px;
+  left: calc(47.83% - 48px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 100px;
+}
+.positron-webpage-2 .nav-1CejCm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .nav-BSVAE2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .nav-rDGcLW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .nav-rZnPxu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .nav-uUxO7l {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .nikkiweekes-jgMewF {
+  background-color: transparent;
+  bottom: 15px;
+  height: 80px;
+  left: calc(47.30% - 64px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 136px;
+}
+.positron-webpage-2 .one-on-onetherapy-cal5Gv {
+  background-color: transparent;
+  bottom: -10px;
+  height: 89px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 158px;
+}
+.positron-webpage-2 .overlap-group-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 287px;
+  margin-top: 310px;
+  position: relative;
+  width: 1920px;
+}
+.positron-webpage-2 .overlap-group1-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 186px;
+  margin-left: 19.0px;
+  margin-top: 212px;
+  position: relative;
+  width: 1335px;
+}
+.positron-webpage-2 .overlap-group2-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 423px;
+  margin-left: 67.0px;
+  margin-top: 192px;
+  position: relative;
+  width: 1543px;
+}
+.positron-webpage-2 .path-19-3CcqpY {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-2 .path-19-3OKPdx {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-2 .path-19-RSxWfQ {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-2 .path-19-UxwV4j {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-2 .path-19-mWAlKD {
+  background-color: transparent;
+  height: 44px;
+  left: calc(49.64% - 22px);
+  position: absolute;
+  top: calc(46.46% - 20px);
+  width: 44px;
+}
+.positron-webpage-2 .positron-txaVym {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 76px;
+  font-style: normal;
+  font-weight: 400;
+  height: 95px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 76px;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-2 .preview-he--resources-fhuxN3 {
+  background-color: transparent;
+  display: block;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  margin-bottom: -13px;
+  margin-left: 3.0px;
+  margin-top: 136px;
+  min-height: 40px;
+  min-width: 833px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-2 .rectangle-154-m4FBGj {
+  background-color: var(--tower-gray);
+  height: 287px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.positron-webpage-2 .resources-Qrm0Vg {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.40px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-2 .screen-sho-t-15704-pm-iT8Jg8 {
+  background-color: transparent;
+  display: block;
+  height: 442px;
+  left: calc(34.80% - 189px);
+  position: absolute;
+  top: 328px;
+  width: 544px;
+opacity: 0;transform: scale(1.1);
+}
+.positron-webpage-2 .small-burst-image-E4FrxN {
+  background-color: transparent;
+  height: calc(100.00% + 141px);
+  left: -199px;
+  position: absolute;
+  top: -90px;
+  width: calc(100.00% + 395px);
+}
+.positron-webpage-2 .small-burst-image-vSU4qj {
+  background-color: transparent;
+  height: calc(100.00% + 607px);
+  left: -742px;
+  position: absolute;
+  top: -293px;
+  width: calc(100.00% + 1475px);
+}
+.positron-webpage-2 .small-burst-image-yhdpGR {
+  background-color: transparent;
+  height: calc(100.00% + 235px);
+  left: -331px;
+  position: absolute;
+  top: -150px;
+  width: calc(100.00% + 656px);
+}
+.positron-webpage-2 .social-i-cons-3Wchr8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 89px;
+  left: 0px;
+  position: absolute;
+  width: 18px;
+}
+.positron-webpage-2 .social-i-cons-m4FBGj {
+  background-color: transparent;
+  height: 22px;
+  left: 835px;
+  position: absolute;
+  top: 177px;
+  width: 249px;
+}
+.positron-webpage-2 .span0-5WLnmp {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.positron-webpage-2 .span0-CAunOj {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.positron-webpage-2 .span0-o2iwfl {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-2 .span1-5WLnmp {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-2 .span1-CAunOj {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-2 .span1-o2iwfl {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-2 .span2-5WLnmp {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.positron-webpage-2 .span2-o2iwfl {
+  color: rgba(82,100,100,1.0);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.positron-webpage-2 .submit-message-GeX6Rx {
+  background-color: transparent;
+  height: 35px;
+  letter-spacing: 5.40px;
+  line-height: 68px;
+  position: absolute;
+  right: calc(49.28% - 149px);
+  text-align: center;
+  top: calc(19.44% - 7px);
+  white-space: nowrap;
+  width: 302px;
+}
+.positron-webpage-2 .text-8a9Q8i {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.positron-webpage-2 .text-content-3Wchr8 {
+  background-color: transparent;
+  height: 130px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 412px;
+}
+.positron-webpage-2 .twitter1-A74ZZ6 {
+  background-color: transparent;
+  bottom: calc(49.44% - 7px);
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.positron-webpage-2 .twitter1-qs0rpb {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(48.78% - 10px);
+  top: 2px;
+  width: 20px;
+}
+.positron-webpage-2 .type-your-message-QmnxrS {
+  background-color: transparent;
+  color: var(--tower-gray);
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39px;
+  left: 68px;
+  letter-spacing: 0.90px;
+  line-height: 78px;
+  position: absolute;
+  text-align: left;
+  top: calc(12.25% - 5px);
+  white-space: nowrap;
+  width: 326px;
+}
+.positron-webpage-2 .veteran-support-vTBimZ {
+  background-color: transparent;
+  bottom: 13px;
+  height: 60px;
+  left: calc(47.71% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 108px;
+}
+.positron-webpage-2 .we-are-con--improving-dc1MTW {
+  background-color: transparent;
+  bottom: calc(38.97% - 15px);
+  height: 39px;
+  left: 0px;
+  letter-spacing: 0.90px;
+  line-height: 78px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 39px);
+}
+.positron-webpage-2 .we-are-her-nversation-iT8Jg8 {
+  background-color: transparent;
+  display: block;
+  height: 40px;
+  left: 9.55%;
+  letter-spacing: 0.93px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  white-space: nowrap;
+  width: 41.86%;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-2 .we-want-do-t-a-luxury-SJVP2h {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  display: block;
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 31px;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+opacity: 0;transform: translate(-25px, 0);
+}
+.positron-webpage-2 .wed-love-t-r-from-you-dc1MTW {
+  background-color: transparent;
+  bottom: 18px;
+  height: 39px;
+  letter-spacing: 0.90px;
+  line-height: 78px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 431px;
+}
+.positron-webpage-2 .whether-he-u-are-here-xnGT68 {
+  background-color: transparent;
+  bottom: -7px;
+  height: 118px;
+  left: 78px;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 76px);
+}
+.positron-webpage-2 .x-it-can-an--of-energy-P2UvEg {
+  background-color: transparent;
+  bottom: -14px;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.93px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.positron-webpage-2 .your-menta-tart-today-xnGT68 {
+  background-color: transparent;
+  color: var(--black-coral-pearl);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 31px;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.93px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 714px;
+}
+:root {
+  --black-coral-pearl: rgba(82,100,100,1.0);
+  --chicago: rgba(90,85,85,1.0);
+  --japonica: rgba(217,125,84,1.0);
+  --tower-gray: rgba(160,193,193,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@keyframes animate-enter-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter1-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter10-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter11-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter12-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter13-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter14-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter15-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter16-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter17-frames {
+
+from{opacity: 0;transform: scale(0.9);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter18-frames {
+
+from{opacity: 0;transform: scale(0.9);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter19-frames {
+
+from{opacity: 0;transform: scale(0.9);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter2-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter20-frames {
+
+from{opacity: 0;transform: scale(0.9);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter21-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter3-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter4-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter5-frames {
+
+from{opacity: 0;transform: scale(1.1);}
+to{opacity: 1;transform: scale(1);}
+}
+@keyframes animate-enter6-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter7-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter8-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter9-frames {
+
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
